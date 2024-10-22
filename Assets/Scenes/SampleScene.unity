@@ -4100,7 +4100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea2d67dc03a161043a2ba3a5f6a5f6b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mouseSens: 600
+  mouseSens: 250
   playerBody: {fileID: 1425550320}
 --- !u!1 &981397126
 GameObject:
@@ -4562,7 +4562,6 @@ MonoBehaviour:
   destPoint: 0
   running: 0
   rb: {fileID: 1042393183}
-  anim: {fileID: 0}
   sr: {fileID: 0}
   navi: {fileID: 1042393184}
   player:
@@ -7077,7 +7076,6 @@ MonoBehaviour:
   destPoint: 0
   running: 0
   rb: {fileID: 1545712250}
-  anim: {fileID: 0}
   sr: {fileID: 0}
   navi: {fileID: 1545712248}
   player:
